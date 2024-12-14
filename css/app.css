@@ -1,0 +1,54 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+.hidden {
+  display: none;
+}
+
+.container {
+  margin: 2rem auto;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.container.homepage {
+  position: relative;
+  display: flex;
+  height: 60vh;
+  margin: 10vh auto;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://img.freepik.com/vektoren-kostenlos/illustration-zur-geschaeftsethik_23-2148743354.jpg?t=st=1734213906~exp=1734217506~hmac=c3718495d4306dd02be9dbbc049497daba4945f2815ded2e6cbe227bf623b5a1&w=1380');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.container.homepage .box {
+  background-color: rgba(20, 22, 26, 0.85);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.video-container {
+  margin: 10px auto;
+  width: fit-content;
+}
+
+#result-gif,
+#result-gif-href {
+  width: 400px;
+  height: 400px;
+}

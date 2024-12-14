@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="css/game.css" />
+  <title>Quick Quiz - Play</title>
+</head>
+
+<body>
+  <div id="loader"></div>
+
+  <div id="game" class="hidden container">
+
+    <nav class="level">
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="title" id="countdownText">10</p>
+        </div>
+      </div>
+      <p id="progressText"></p>
+      <progress id="progressBar" class="progress is-link" value="15" max="100">
+        <div id="progressBarFull"></div>
+      </progress>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">Korrekt</p>
+          <p class="title" id="scoreKorrekt">0</p>
+        </div>
+      </div>
+
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">Falsch</p>
+          <p class="title" id="scoreWrong">0</p>
+        </div>
+      </div>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">Score</p>
+          <h1 class="title" id="score">0</h1>
+        </div>
+      </div>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">Max Score</p>
+          <h1 class="title" id="scoreMax">0</h1>
+        </div>
+      </div>
+    </nav>
+
+    <div class="columns">
+      <div class="card column is-one-third">
+        <div class="card-image">
+          <figure class="image is-4by3">
+            <img id="currentQuestionThumb" src="https://bulma.io/assets/images/placeholders/1280x960.png"
+              alt="Current question thumb" />
+          </figure>
+        </div>
+        <div class="card-content">
+          <div id="question" class="title is-4"></div>
+        </div>
+      </div>
+      <div id="showen-questions" class="column"></div>
+    </div>
+  </div>
+
+  <script src="js/game.js"></script>
+</body>
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <strong>Eine Quize Seite</strong> von Ville Zeumer und Simon Heisler
+      Der Source Code ist öffentlich einsehbar im <a href="" target=”_blank”>GitHub</a>
+    </p>
+  </div>
+</footer>
+
+</html>

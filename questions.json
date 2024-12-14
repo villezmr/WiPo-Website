@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Was beschreibt das Bruttoinlandsprodukt?",
+    "options": [
+      "Die Höhe der Staatsverschuldung eines Landes.",
+      "Den Wert aller in einem Land produzierten Waren und Dienstleistungen in einem Jahr.",
+      "Die Arbeitslosenquote in einem Land.",
+      "Die durchschnittlichen Löhne einer Volkswirtschaft."
+    ],
+    "answer": 1,
+    "imageName": "image_1.png",
+    "score": 1
+  },
+  {
+    "question": "Welche Funktion hat eine Zentralbank?",
+    "options": [
+      "Sie kontrolliert den Goldpreis weltweit.",
+      "Sie legt die Steuersätze fest.",
+      "Sie steuert die Geldmenge und sichert die Preisstabilität.",
+      "Sie vergibt Kredite an Unternehmen.",
+      "Sie entscheidet über die Höhe der Sozialversicherungsbeiträge."
+    ],
+    "answer": 3,
+    "imageName": "image_2.png",
+    "score": 2
+  },
+  {
+    "question": "Was bedeutet „Marktwirtschaft“?",
+    "options": [
+      "Der Staat regelt alle wirtschaftlichen Prozesse",
+      "Angebot und Nachfrage bestimmen den Markt. ",
+      "Alle Betriebe gehören dem Staat.",
+      "Eine Wirtschaft, die stark durch Subventionen geprägt ist.",
+      "Ein System, das auf der Gleichverteilung aller Güter basiert.",
+      "Die Preise werden durch das Parlament beschlossen."
+    ],
+    "answer": 3,
+    "imageName": "image_3.png",
+    "score": 3
+  },
+  {
+    "question": "Was bedeutet „Inflation“?",
+    "options": [
+      "Ein Anstieg des Außenhandels eines Landes.",
+      "Ein allgemeiner Anstieg der Preise in einer Volkswirtschaft.",
+      "Eine Zunahme der Sparquote der Haushalte.",
+      "Eine Erhöhung der Löhne und Gehälter."
+    ],
+    "answer": 1,
+    "imageName": "image_4.jpg",
+    "score": 1
+  },
+  {
+    "question": " Was ist ein „Staatshaushalt“?",
+    "options": [
+      "Die Bilanz der Gewinne staatlicher Unternehmen.",
+      "Die Schulden des Staates gegenüber der Zentralbank.",
+      "Ein Gebäude, in dem die Regierung arbeitet.",
+      "Die jährlichen Kosten für Bildung und Infrastruktur eines Landes.",
+      "Ein Plan, der die Ausgaben und Einnahmen eines Staates festlegt."
+    ],
+    "answer": 4,
+    "imageName": "image_5.jpg",
+    "score": 2
+  },
+  {
+    "question": "Was versteht man unter „Globalisierung“?",
+    "options": [
+      "Den Zusammenschluss aller Staaten zu einer Weltregierung.",
+      "Die Schaffung eines gemeinsamen Weltwährungssystems.",
+      "Den zunehmenden Austausch von Waren, Informationen und Kapital weltweit. ",
+      "Eine Welt, in der keine nationalen Regierungen mehr existieren",
+      "Die Abschaffung nationaler Grenzen."
+    ],
+    "answer": 3,
+    "imageName": "image_6.jpg",
+    "score": 2
+  },
+  {
+    "question": "Was ist das Ziel der Europäischen Zentralbank (EZB)?",
+    "options": [
+      "Die Förderung von Arbeitsplätzen in Europa.",
+      "Die Kontrolle der nationalen Haushalte der EU-Mitgliedsstaaten.",
+      "Die Sicherung von Preisstabilität und die Steuerung der Geldpolitik",
+      "Die Einführung eines europäischen Mindestlohns."
+    ],
+    "answer": 2,
+    "imageName": "image_7.jpg",
+    "score": 1
+  },
+  {
+    "question": "Was bedeutet „Soziale Marktwirtschaft“?",
+    "options": [
+      "Eine Marktwirtschaft ohne staatliche Eingriffe.",
+      "Eine Wirtschaftsordnung, die Wettbewerb mit sozialem Ausgleich kombiniert.",
+      "Ein System, in dem der Staat alle Preise festlegt.",
+      "Ein System, das nur auf Sozialleistungen basiert.",
+      "Eine Wirtschaftsordnung mit zentraler Planung und wenigen Marktmechanismen.",
+      "Eine Marktordnung, die nur auf private Unternehmen setzt."
+    ],
+    "answer": 3,
+    "imageName": "image_8.jpg",
+    "score": 3
+  },
+  {
+    "question": "Was sind „Fixkosten“ in einem Unternehmen?",
+    "options": [
+      "Kosten, die unabhängig von der Produktionsmenge immer anfallen.",
+      "Kosten, die durch Kreditrückzahlungen entstehen.",
+      "Kosten für den Import von Rohstoffen.",
+      "Kosten, die sich je nach Produktionsmenge ändern."
+    ],
+    "answer": 0,
+    "imageName": "image_9.jpg",
+    "score": 1
+  },
+  {
+    "question": "Was ist der Unterschied zwischen „Import“ und „Export“?",
+    "options": [
+      "Import ist der Verkauf, Export der Einkauf von Waren.",
+      "Import ist der Einkauf, Export der Verkauf von Waren. ",
+      "Import sind Steuern, Export sind Zölle.",
+      "Import bedeutet Lagerung, Export bedeutet Vertrieb."
+    ],
+    "answer": 1,
+    "imageName": "image_10.webp",
+    "score": 1
+  },
+  {
+    "question": "Was sind „Zölle“?",
+    "options": [
+      "Steuern auf Waren, die innerhalb eines Landes gehandelt werden.",
+      "Gebühren auf importierte oder exportierte Waren. ",
+      "Geldbußen für Unternehmen, die illegal handeln.",
+      "Subventionen für den Außenhandel."
+    ],
+    "answer": 1,
+    "imageName": "image_11.png",
+    "score": 1
+  },
+  {
+    "question": "Was versteht man unter „Arbeitslosigkeit“?",
+    "options": [
+      "Die Zahl der Menschen, die nicht arbeiten wollen.",
+      "Die Zahl der Arbeitsplätze in einem Land.",
+      "Die Zahl der Rentner in einem Land.",
+      "Die Zahl der Menschen, die keine Arbeit haben, aber arbeiten möchten"
+    ],
+    "answer": 3,
+    "imageName": "image_12.png",
+    "score": 1
+  },
+  {
+    "question": "Was bedeutet „Handelsbilanz“?",
+    "options": [
+      "Der Vergleich der Importe und Exporte eines Landes.",
+      "Die Gesamtheit aller Steuereinnahmen eines Landes.",
+      "Die Kosten für den Warentransport im Handel.",
+      "Der Jahresumsatz der Unternehmen eines Landes."
+    ],
+    "answer": 0,
+    "imageName": "image_13.png",
+    "score": 1
+  },
+  {
+    "question": " Welche Aufgabe hat die Legislative in einem Staat?",
+    "options": [
+      "Sie führt die Gesetze aus.",
+      "Sie erlässt und beschließt Gesetze. ",
+      "Sie kontrolliert die Gerichte.",
+      "Sie erhebt Steuern."
+    ],
+    "answer": 1,
+    "imageName": "image_14.jpg",
+    "score": 1
+  },
+  {
+    "question": "Was bedeutet „Demokratie“?",
+    "options": [
+      "Eine Regierungsform, in der das Volk durch Wahlen Einfluss nimmt.",
+      "Import ist der Einkauf, Export der Verkauf von Waren. ",
+      "Eine Regierungsform, in der nur reiche Bürger wählen dürfen.",
+      "Eine Regierungsform, in der keine Gesetze existieren."
+    ],
+    "answer": 0,
+    "imageName": "image_15.jpg",
+    "score": 1
+  }
+]
