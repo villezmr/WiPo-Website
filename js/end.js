@@ -53,19 +53,15 @@ const setResultGif = () => {
   let anchorSrc = "https://giphy.com/gifs/full-house-michelle-tanner-you-got-it-dude-l41lZxzroU33typuU";
 
   if (percentage >= 80) {
-    console.log("God")
     videoSrc = "https://giphy.com/embed/Od0QRnzwRBYmDU3eEO"
     anchorSrc = "https://giphy.com/gifs/primevideo-2020-borat-subsequent-moviefilm-Od0QRnzwRBYmDU3eEO";
   } else if (percentage >= 50) {
-    console.log("Medium")
     videoSrc = "https://giphy.com/embed/l41lZxzroU33typuU"
     anchorSrc = "https://giphy.com/gifs/full-house-michelle-tanner-you-got-it-dude-l41lZxzroU33typuU";
   } else if (percentage < 20) {
-    console.log("Low")
     videoSrc = "https://giphy.com/embed/d2lcHJTG5Tscg"
     anchorSrc = "https://giphy.com/gifs/blackish-anthony-anderson-dre-johnson-d2lcHJTG5Tscg";
   }
-  console.log(percentage)
   const resultGif = document.getElementById('result-gif');
   const resultGifAnchor = document.getElementById('result-gif-href')
   if (resultGif) {
