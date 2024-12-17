@@ -90,6 +90,4 @@ saveHighScore = (e) => {
   });
   highScores.splice(5);
   JSON.stringify(localStorage.setItem("highScores", highScores));
-
-  window.location.assign("/");
 };
